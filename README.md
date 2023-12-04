@@ -1,12 +1,5 @@
 <h1 align="left">Hey 👋 Samay Here!</h1>
 
-###
-
-<br clear="both">
-
-<p align="left"></p>
-
-###
 
 <h2 align="left">About me</h2>
 
