@@ -5,7 +5,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning WebDev & Cloud<br>📱 Prev. Android Dev [Java] <br>🎯 Goals: SWE, DevOps Engineer<br>🎲 Fun fact: I published my first app on Play Store at the age of 16</p>
+<p align="left">📚 I'm currently learning Hybrid Development (react-native) & Cloud<br>📱 Prev. Android Dev [Java] <br>🎯 Goals: SWE, DevOps Engineer<br>🎲 Fun fact: I published my first app on Play Store at the age of 16</p>
 
 ###
 
