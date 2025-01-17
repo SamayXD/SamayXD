@@ -5,7 +5,7 @@
 
 ###
 
-<p align="left">📚 Doing Native iOS (Swift) & Cross-Platform Mobile development (React Native)<br>📱 Prev. Android Dev [Java] <br>🎯 Goals: SWE, DevOps Engineer<br>🎲 Fun fact: I published my first app on Play Store at the age of 16</p>
+<p align="left">📚 Doing Native iOS (Swift) & Cross-Platform Mobile development (React Native)<br>📱 Prev. Android Dev [Java] <br>🎯 Goals: SWE, PM<br>🎲 Fun fact: I published my first app on Play Store at the age of 16</p>
 
 ###
 
